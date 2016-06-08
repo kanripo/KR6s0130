@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:55.954532
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:45
 #+TITLE: 律宗章疏
 #+PROPERTY: CBETA_ID T55n2182
 #+PROPERTY: ID KR6s0130
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2182
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0130_T_000-1144c>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0130_T_001-1144c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.2182¶
-
- 律宗章疏¶
+No. 2182¶
+律宗章疏¶
 ¶
 藥師寺榮穩大法師奉聖王勅錄上¶
 
