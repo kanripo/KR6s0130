@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:56.133411
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:45
 #+TITLE: 律宗章疏
 #+PROPERTY: CBETA_ID T55n2182
 #+PROPERTY: ID KR6s0130
